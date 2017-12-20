@@ -10,6 +10,11 @@
   font-weight: bold;
   color: white;
 }
+.intro h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
 .intro p,a {
   font-size: 18px;
   color: white;
@@ -23,5 +28,8 @@
   font-weight: bold;
 }
 .process p {
+  font-size: 14px;
+}
+.work p {
   font-size: 14px;
 }
