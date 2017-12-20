@@ -33,3 +33,21 @@
 .work p {
   font-size: 14px;
 }
+.work h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.team h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.team p {
+  font-size: 14px;
+}
+.contact h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.contact p {
+  font-size: 14px;
+}
