@@ -27,7 +27,17 @@ nav span{
   display: inline-block;
   padding: 20px 10px;
 }
-.column.large{
+.columnlarge{
   width: 630px;
   border: 1px solid black;
+}
+div {
+  border: 1px solid black;
+  display: block;
+}
+.content {
+  display: flex;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
 }
