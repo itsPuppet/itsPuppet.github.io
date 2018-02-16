@@ -27,12 +27,16 @@ nav span{
   display: inline-block;
   padding: 20px 10px;
 }
-.columnlarge{
+.column.large{
   width: 630px;
-  border: 1px solid black;
+}
+.column.medium{
+  width: 300px;
+}
+.column.small{
+  width: 240px;
 }
 div {
-  border: 1px solid black;
   display: block;
 }
 .content {
@@ -40,4 +44,61 @@ div {
   width: 1232px;
   margin: 0 auto 78px auto;
   padding-top: 116px;
+}
+.mainStory .image-content{
+  background-image: url("../sources/images/img-story-main.png");
+  width: 630px;
+  margin-top: 0;
+  font-size: 40px;
+  text-align: left;
+}
+.image-content{
+  height: 300px;
+  font-family: Georgia;
+  font-weight: bold;
+  color: white;
+}
+.fall-cancelled.image-content{
+  background-image: url("../sources/images/img-story-2-fall-season.png")
+}
+/*
+.image-content{
+  height: 300px;
+  margin-top: 15px;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+*/
+.pop-culture.image-content{
+  background-image: url("../sources/images/img-story-3-hipster-cameraman.png");
+}
+.cat-ceo.image-content{
+  background-image: url("../sources/images/img-story-1-cat-photo.png");
+}
+.image-content{
+  height: 300px;
+  margin-top: 15px;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.stories{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
+.story{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.column{
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
 }
