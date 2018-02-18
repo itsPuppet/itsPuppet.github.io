@@ -113,7 +113,7 @@ var linkB = [
 /*Box 04*/	"https://boards.4chan.org/wg/",
 /*Box 05*/	"https://www.wowhead.com",
 /*Box 06*/	"https://www.netflix.com",
-/*Box 07*/	"",
+/*Box 07*/	"https://www.github.com",
 /*Box 08*/	"",
 
 //-- Page 2 --//
