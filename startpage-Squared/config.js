@@ -111,8 +111,8 @@ var linkB = [
 /*Box 02*/	"https://www.reddit.com/",
 /*Box 03*/	"https://www.youtube.com/",
 /*Box 04*/	"https://boards.4chan.org/wg/",
-/*Box 05*/	"",
-/*Box 06*/	"",
+/*Box 05*/	"https://www.wowhead.com",
+/*Box 06*/	"https://www.netflix.com",
 /*Box 07*/	"",
 /*Box 08*/	"",
 
