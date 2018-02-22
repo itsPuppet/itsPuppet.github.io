@@ -13,6 +13,16 @@ body{
   flex-wrap: wrap;
 }
 
+header {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  height: 69px;
+  background: black;
+  border-bottom: 1px solid seashell;
+  align-items: center;
+}
+
 .header.logo img{
   padding-left: 10px;
   height: 50px;
@@ -29,4 +39,6 @@ nav{
 nav span{
   text-align: right;
   padding: 20px 10px;
+  color: seashell;
+  text-decoration: underline;
 }
