@@ -4,11 +4,29 @@ body{
   color: seashell;
   background-color: black;
   opacity: 0.9;
+  text-align: center;
 }
 
 .header.logo{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.header.logo img{
   padding-left: 10px;
   height: 50px;
-  color: seashell;
   opacity: 0.9;
+}
+
+nav{
+  display: block;
+  text-align: right;
+  text-decoration: underline;
+  color: seashell;
+  flex-grow: 1;
+}
+nav span{
+  text-align: right;
+  padding: 20px 10px;
 }
